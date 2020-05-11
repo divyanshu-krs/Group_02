@@ -1,0 +1,18 @@
+This folder contains all the files for each code
+Every file will run in the jupter notebook, therefore please use them in google colab and similar env.
+
+For each type of feature there are two different code files one for classification and one for regression
+
+4.1 (a) (classification) : Relevance News Category Features
+4.1 (a) Regression : Relevance News Category Features
+
+4.1 (b) (classification) : Named Entity Features
+4.1 (b) (classification) : Named Entity Features
+
+4.1 (c) (classification) : Richness Post Type Features
+4.1 (c) (classification) : Richness Post Type Features
+
+4.1 (d) (classification) : Linguistics Style Features
+4.1 (d) (classification) : Linguistics Style Features
+
+

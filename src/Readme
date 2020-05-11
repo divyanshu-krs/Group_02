@@ -7,12 +7,22 @@ For each type of feature there are two different code files one for classificati
 4.1 (a) Regression : Relevance News Category Features
 
 4.1 (b) (classification) : Named Entity Features
-4.1 (b) (classification) : Named Entity Features
+4.1 (b) (Regression) : Named Entity Features
 
 4.1 (c) (classification) : Richness Post Type Features
-4.1 (c) (classification) : Richness Post Type Features
+4.1 (c) (Regression) : Richness Post Type Features
 
 4.1 (d) (classification) : Linguistics Style Features
-4.1 (d) (classification) : Linguistics Style Features
+4.1 (d) (Regression) : Linguistics Style Features
 
 
+4.1 (e) (classification) : Emotional Salience Features
+4.1 (e) (Regression) : Emotional Salience Features
+
+All_Feature_Classification.ipynb : Combines all the features and then run classification
+All_Feature_Regression.ipynb : Combines all the features and then run regression
+
+Regarding main.py and main.ipynb : It is advised not to run before changing appropriate location for each file and model. Else the code is fine.
+Most preferred method is to run them individual for more clear picture for each feature
+
+Detailed report is updates on the google classroom
